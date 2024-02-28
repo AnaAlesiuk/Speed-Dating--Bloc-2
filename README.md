@@ -1,4 +1,4 @@
-# Speed-Dating--Bloc-2
+# Speed-Dating
 Exploratory, descriptive and inferential analysis of data
 
 my email: anastasia@phiskills.com
